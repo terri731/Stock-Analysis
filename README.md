@@ -71,6 +71,8 @@ The file used to refactor contains stock data from 2017 and 2018. It will allow 
 ### Summary
 The advantages of refactoring code is that it gives you the ability to make it organized and easier to read. 
 Theis also allows for better design and debugging. It also offers the benefit of allowing others to read the code easier. 
+
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/89110920/134783573-d44067a0-ba12-4a25-93b0-cddd91fac12f.png)
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/89110920/134783577-474e91fa-7085-41e8-bf07-1fbf4449b157.png)
