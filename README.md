@@ -73,6 +73,11 @@ The advantages of refactoring code is that it gives you the ability to make it o
 Theis also allows for better design and debugging. It also offers the benefit of allowing others to read the code easier. 
 
 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/89110920/134783573-d44067a0-ba12-4a25-93b0-cddd91fac12f.png)
 
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/89110920/134783577-474e91fa-7085-41e8-bf07-1fbf4449b157.png)
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/89110920/134790429-77a2ef91-ee62-401d-b182-a5941853288a.png)
+
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/89110920/134790430-a1a36c86-c98b-4349-b729-3aeb4b8e34a1.png)
+
+
